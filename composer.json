@@ -1,9 +1,9 @@
 {
-    "name": "pda/pheanstalk",
+    "name": "socloz/pheanstalk",
     "type": "library",
     "description": "PHP client for beanstalkd queue",
     "keywords": ["beanstalkd"],
-    "homepage": "https://github.com/pda/pheanstalk",
+    "homepage": "https://github.com/SoCloz/pheanstalk",
     "license": "MIT",
     "authors": [
         {
